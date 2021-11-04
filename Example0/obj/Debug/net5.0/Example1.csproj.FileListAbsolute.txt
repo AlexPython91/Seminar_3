@@ -1,0 +1,16 @@
+/home/alexhvorostov/GeekBrains Курсы/Курс №5. Языки прграммирования/Seminar_3 04.11/Example1/bin/Debug/net5.0/Example1
+/home/alexhvorostov/GeekBrains Курсы/Курс №5. Языки прграммирования/Seminar_3 04.11/Example1/bin/Debug/net5.0/Example1.deps.json
+/home/alexhvorostov/GeekBrains Курсы/Курс №5. Языки прграммирования/Seminar_3 04.11/Example1/bin/Debug/net5.0/Example1.runtimeconfig.json
+/home/alexhvorostov/GeekBrains Курсы/Курс №5. Языки прграммирования/Seminar_3 04.11/Example1/bin/Debug/net5.0/Example1.runtimeconfig.dev.json
+/home/alexhvorostov/GeekBrains Курсы/Курс №5. Языки прграммирования/Seminar_3 04.11/Example1/bin/Debug/net5.0/Example1.dll
+/home/alexhvorostov/GeekBrains Курсы/Курс №5. Языки прграммирования/Seminar_3 04.11/Example1/bin/Debug/net5.0/ref/Example1.dll
+/home/alexhvorostov/GeekBrains Курсы/Курс №5. Языки прграммирования/Seminar_3 04.11/Example1/bin/Debug/net5.0/Example1.pdb
+/home/alexhvorostov/GeekBrains Курсы/Курс №5. Языки прграммирования/Seminar_3 04.11/Example1/obj/Debug/net5.0/Example1.csproj.AssemblyReference.cache
+/home/alexhvorostov/GeekBrains Курсы/Курс №5. Языки прграммирования/Seminar_3 04.11/Example1/obj/Debug/net5.0/Example1.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexhvorostov/GeekBrains Курсы/Курс №5. Языки прграммирования/Seminar_3 04.11/Example1/obj/Debug/net5.0/Example1.AssemblyInfoInputs.cache
+/home/alexhvorostov/GeekBrains Курсы/Курс №5. Языки прграммирования/Seminar_3 04.11/Example1/obj/Debug/net5.0/Example1.AssemblyInfo.cs
+/home/alexhvorostov/GeekBrains Курсы/Курс №5. Языки прграммирования/Seminar_3 04.11/Example1/obj/Debug/net5.0/Example1.csproj.CoreCompileInputs.cache
+/home/alexhvorostov/GeekBrains Курсы/Курс №5. Языки прграммирования/Seminar_3 04.11/Example1/obj/Debug/net5.0/Example1.dll
+/home/alexhvorostov/GeekBrains Курсы/Курс №5. Языки прграммирования/Seminar_3 04.11/Example1/obj/Debug/net5.0/ref/Example1.dll
+/home/alexhvorostov/GeekBrains Курсы/Курс №5. Языки прграммирования/Seminar_3 04.11/Example1/obj/Debug/net5.0/Example1.pdb
+/home/alexhvorostov/GeekBrains Курсы/Курс №5. Языки прграммирования/Seminar_3 04.11/Example1/obj/Debug/net5.0/Example1.genruntimeconfig.cache
