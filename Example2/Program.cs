@@ -17,6 +17,7 @@
 //     Console.WriteLine("Максимальное число = " + numberTwo);
 //     Console.WriteLine("Минимальное число = " + numberOne);
    
+    // Решение методом. Вариант 2
 
    int findMaximumNumber(int a, int b)
    {
