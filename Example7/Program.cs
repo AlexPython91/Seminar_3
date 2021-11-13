@@ -1,26 +1,36 @@
 ﻿using System;
 
-// Показать числа от -N до N
+//  7. Показать числа от -N до N
 
-int[] array = new int[10];   // создаем массив из 10 значений
-
-void createArray(int[] array)    // заполняем массив случ. числами в диапазоне с пом. метода
-{
-    for(int i = 0; i < 10; i++)
+string numbers (int a, int b){
+    int aMath = Math.Abs(a); int bMath = Math.Abs(b);
+    int sum = 0;
+    if (a < 0 & b < 0)
     {
-        array[i] = new Random().Next(-10, 11);
+        sum = aMath - bMath;
     }
-}
-
-void showArray(int[] array)     // создаем метод вывода массива в консоль
-{
-    for(int j = 0; j < array.Length; j++)
+    if (a < 0 & b > 0)
     {
-        Console.Write($"{array[j]} ");
+        sum = aMath + bMath;
     }
+    if (a > 0 & b > 0)
+    {
+        sum = b - a;
+    }
+    int [] arr = new int [sum + 1];
+    string res = string.Empty;
+        for (int i = 0; i < arr.Length; i++)
+    {
+        arr [i] = a;
+        a = a+1;
+    }
+        for (int i = 0; i < arr.Length; i++)
+    {
+        res = $"{Convert.ToString(res)} {Convert.ToString(arr[i])}";
+    }
+    return res;
 }
+string valueArr = numbers(-11, 11);
+Console.Write($"А чисел то не мало:\n {valueArr} ");
 
-createArray(array); 
-Console.WriteLine("Показ всех чисел массива от -N до N: ");  // вызываем оба метода
-showArray(array);
-Console.WriteLine();
+
